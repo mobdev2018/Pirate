@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Countries</key>
+	<array>
+		<dict>
+			<key>country</key>
+			<string>United States</string>
+			<key>cities</key>
+			<array>
+				<string>Washington</string>
+				<string>New York</string>
+				<string>San Fransico</string>
+				<string>Los Angeles</string>
+				<string>Chicago</string>
+			</array>
+			<key>zipcode</key>
+			<string>+1</string>
+		</dict>
+		<dict>
+			<key>country</key>
+			<string>Denmark</string>
+			<key>cities</key>
+			<array>
+				<string>Copenhagen</string>
+				<string>Aarhus</string>
+				<string>Odense</string>
+				<string>Aalborg</string>
+				<string>Esbjerg</string>
+			</array>
+			<key>zipcode</key>
+			<string>+45</string>
+		</dict>
+		<dict>
+			<key>country</key>
+			<string>Sweden</string>
+			<key>cities</key>
+			<array>
+				<string>Stockholm</string>
+				<string>Gothenburg</string>
+				<string>Uppsala</string>
+				<string>Lund</string>
+				<string>Helsingborg</string>
+			</array>
+			<key>zipcode</key>
+			<string>+46</string>
+		</dict>
+		<dict>
+			<key>country</key>
+			<string>Germany</string>
+			<key>cities</key>
+			<array>
+				<string>Berlin</string>
+				<string>Hamburg</string>
+				<string>Frankfurt</string>
+				<string>Munich</string>
+				<string>Cologne</string>
+				<string>Stuttgart</string>
+				<string>Leipzig</string>
+			</array>
+			<key>zipcode</key>
+			<string>+49</string>
+		</dict>
+		<dict>
+			<key>country</key>
+			<string>France</string>
+			<key>cities</key>
+			<array>
+				<string>Paris</string>
+				<string>Marseille</string>
+				<string>Lyon</string>
+				<string>Bordeaux</string>
+				<string>Nice</string>
+			</array>
+			<key>zipcode</key>
+			<string>+33</string>
+		</dict>
+		<dict>
+			<key>country</key>
+			<string>Switzerland</string>
+			<key>cities</key>
+			<array>
+				<string>Bern</string>
+				<string>Luceme</string>
+				<string>Geneva</string>
+				<string>Basel</string>
+			</array>
+			<key>zipcode</key>
+			<string>+41</string>
+		</dict>
+	</array>
+</dict>
+</plist>
